@@ -1,2 +1,0 @@
-# codesandboxVue
-Created with CodeSandbox
